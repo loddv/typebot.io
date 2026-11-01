@@ -31,7 +31,7 @@
     "bot-engine": "workspace:*",
     "cors": "2.8.5",
     "google-spreadsheet": "4.1.4",
-    "next": "15.3.0",
+    "next": "15.5.28",
     "nextjs-cors": "2.1.2",
     "nodemailer": "6.9.15",
     "openai": "4.81.0",
